@@ -43,6 +43,7 @@ ipset=/deepmind.google/warp
 ipset=/claude.ai/warp
 ipset=/generativelanguage.googleapis.com/warp
 ipset=/generativeai.google/warp
+ipset=/gemini.google.com/warp
 ipset=/bard.google.com/warp
 ipset=/chatgpt.livekit.cloud/warp
 ipset=/24.199.123.28/32/warp
